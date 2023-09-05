@@ -1,0 +1,15 @@
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/bin/Debug/net6.0/task29
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/bin/Debug/net6.0/task29.deps.json
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/bin/Debug/net6.0/task29.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/bin/Debug/net6.0/task29.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/bin/Debug/net6.0/task29.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/refint/task29.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/task29.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/task29/obj/Debug/net6.0/ref/task29.dll

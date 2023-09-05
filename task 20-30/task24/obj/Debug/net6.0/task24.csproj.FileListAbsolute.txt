@@ -1,0 +1,15 @@
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task24/bin/Debug/net6.0/task24
+/Users/kirill.andrianov/Desktop/C#/task24/bin/Debug/net6.0/task24.deps.json
+/Users/kirill.andrianov/Desktop/C#/task24/bin/Debug/net6.0/task24.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/task24/bin/Debug/net6.0/task24.dll
+/Users/kirill.andrianov/Desktop/C#/task24/bin/Debug/net6.0/task24.pdb
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.dll
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/refint/task24.dll
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.pdb
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/task24.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/task24/obj/Debug/net6.0/ref/task24.dll

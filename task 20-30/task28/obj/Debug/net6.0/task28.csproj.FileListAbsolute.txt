@@ -1,0 +1,30 @@
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task28/bin/Debug/net6.0/task28
+/Users/kirill.andrianov/Desktop/C#/task28/bin/Debug/net6.0/task28.deps.json
+/Users/kirill.andrianov/Desktop/C#/task28/bin/Debug/net6.0/task28.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/task28/bin/Debug/net6.0/task28.dll
+/Users/kirill.andrianov/Desktop/C#/task28/bin/Debug/net6.0/task28.pdb
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.dll
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/refint/task28.dll
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.pdb
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/task28.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/task28/obj/Debug/net6.0/ref/task28.dll
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/bin/Debug/net6.0/task28
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/bin/Debug/net6.0/task28.deps.json
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/bin/Debug/net6.0/task28.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/bin/Debug/net6.0/task28.dll
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/bin/Debug/net6.0/task28.pdb
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.dll
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/refint/task28.dll
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.pdb
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/task28.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/task 20-30/task28/obj/Debug/net6.0/ref/task28.dll

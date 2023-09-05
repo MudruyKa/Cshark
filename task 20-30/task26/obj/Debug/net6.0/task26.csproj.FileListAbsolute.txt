@@ -1,0 +1,5 @@
+/Users/kirill.andrianov/Desktop/C#/task26/obj/Debug/net6.0/task26.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/task26/obj/Debug/net6.0/task26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/task26/obj/Debug/net6.0/task26.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task26/obj/Debug/net6.0/task26.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/task26/obj/Debug/net6.0/task26.csproj.CoreCompileInputs.cache
