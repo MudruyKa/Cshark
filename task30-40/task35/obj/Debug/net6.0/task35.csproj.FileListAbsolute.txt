@@ -1,0 +1,15 @@
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/bin/Debug/net6.0/task35
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/bin/Debug/net6.0/task35.deps.json
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/bin/Debug/net6.0/task35.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/bin/Debug/net6.0/task35.dll
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/bin/Debug/net6.0/task35.pdb
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.dll
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/refint/task35.dll
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.pdb
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/task35.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/task30-40/task35/obj/Debug/net6.0/ref/task35.dll

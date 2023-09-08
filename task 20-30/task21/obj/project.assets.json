@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kirill.andrianov/Desktop/C#/task21/task21.csproj",
+      "projectUniqueName": "/Users/kirill.andrianov/Desktop/C#/task 20-30/task21/task21.csproj",
       "projectName": "task21",
-      "projectPath": "/Users/kirill.andrianov/Desktop/C#/task21/task21.csproj",
+      "projectPath": "/Users/kirill.andrianov/Desktop/C#/task 20-30/task21/task21.csproj",
       "packagesPath": "/Users/kirill.andrianov/.nuget/packages/",
-      "outputPath": "/Users/kirill.andrianov/Desktop/C#/task21/obj/",
+      "outputPath": "/Users/kirill.andrianov/Desktop/C#/task 20-30/task21/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kirill.andrianov/.nuget/NuGet/NuGet.Config"

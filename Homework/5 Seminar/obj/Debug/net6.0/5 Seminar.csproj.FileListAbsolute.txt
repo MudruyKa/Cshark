@@ -1,0 +1,5 @@
+/Users/kirill.andrianov/Desktop/C#/Homework/5 Seminar/obj/Debug/net6.0/5 Seminar.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/5 Seminar/obj/Debug/net6.0/5 Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/Homework/5 Seminar/obj/Debug/net6.0/5 Seminar.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/5 Seminar/obj/Debug/net6.0/5 Seminar.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/Homework/5 Seminar/obj/Debug/net6.0/5 Seminar.csproj.CoreCompileInputs.cache
