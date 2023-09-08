@@ -1,12 +1,12 @@
-﻿
-/*37. Найдите произведение пар чисел в одномерном массиве.
-Парой считаем первый и последний элемент, второй и предпоследний и т.д.
-Результат запишите в новом массиве.
-[1 2 3 4 5] -> 5 8 3
-[6 7 3 6] -> 36 21
+﻿/*
+Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
+[3, 7, 23, 12] -> 19
+[-4, -6, 89, 6] -> 0
 */
-//Console.Clear();
-Console.Write("Введите число элементов массива: ");
+
+
+Console.Clear();
+Console.Write("Введите кол-во элементов массива: ");
 int arrayLength = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите минимальное значение элементов массива: ");
 int min = Convert.ToInt32(Console.ReadLine());
@@ -39,18 +39,19 @@ void PrintArray(int[] arrayToPrint)
     }
     Console.Write("]");
 }
-int[] MultyArray(int[] array)
-{
-    int[] newarray = new int[(array.Length+1) / 2];
-    for (int i = 0; i < newarray.Length; i++)
-    {
-        newarray[i] = array[i] * array[array.Length - i - 1];
-    }
-    return newarray;
-}
+
 int[] userArray = GetRandomArray(arrayLength, min, max);
 PrintArray(userArray);
-Console.WriteLine();
-int[] newArray = MultyArray(userArray);
-PrintArray(newArray);
 
+int SumOddNumbers(int[] array)
+{
+    int sumOddNumbers = 0;
+    for (int i = 1; i < array.Length; i += 2) // Увеличиваем i на 2, чтобы работать только с нечётными позициями.
+    {
+        sumOddNumbers += array[i];
+    }
+    return sumOddNumbers;
+}
+Console.WriteLine();
+int sumOddNumb = SumOddNumbers(userArray);
+Console.WriteLine($"Сумма элементов, стоящих на нечётных позициях: {sumOddNumb}");

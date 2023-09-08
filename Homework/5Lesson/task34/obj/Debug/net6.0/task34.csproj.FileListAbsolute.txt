@@ -1,0 +1,15 @@
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/bin/Debug/net6.0/task34
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/bin/Debug/net6.0/task34.deps.json
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/bin/Debug/net6.0/task34.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/bin/Debug/net6.0/task34.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/bin/Debug/net6.0/task34.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/refint/task34.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/task34.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/5Lesson/task34/obj/Debug/net6.0/ref/task34.dll
