@@ -1,0 +1,15 @@
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/bin/Debug/net6.0/task41
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/bin/Debug/net6.0/task41.deps.json
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/bin/Debug/net6.0/task41.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/bin/Debug/net6.0/task41.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/bin/Debug/net6.0/task41.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/refint/task41.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/task41.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/6Seminar/task41/obj/Debug/net6.0/ref/task41.dll

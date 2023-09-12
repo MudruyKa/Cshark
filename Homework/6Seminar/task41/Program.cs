@@ -4,18 +4,45 @@
 1, -7, 567, 89, 223-> 3
 */
 Console.Clear();
-Console.WriteLine("Введите число: ");
-int[] a = Convert.ToInt32(Console.ReadLine());
-string Delenie(int[] a)
+Console.Write("Введите число элементов массива: ");
+int arrayLength = Convert.ToInt32(Console.ReadLine());
+
+int[] Array(int arrayLength)
 {
-    string result = string.Empty;
-    int temp = 0;
-    for (int i = a; i > a.Length; i /= 2)
-    { 
-        temp = i % 2;
-        result = temp + result;
+    int[] array = new int[arrayLength];
+    for (int i = 0; i < arrayLength; i++)
+    {
+        Console.Write("Введите элемент массива: ");
+        array[i] = Convert.ToInt32(Console.ReadLine());
     }
-    return result;
+    return array;
 }
-string b = Delenie(a);
-Console.WriteLine(b);
+void PrintArray(int[] arrayToPrint)
+{
+    Console.Write("[");
+    for (int i = 0; i < arrayToPrint.Length; i++)
+    {
+        Console.Write(arrayToPrint[i]);
+        if (i < arrayToPrint.Length - 1)
+        {
+            Console.Write(", ");
+        }
+    }
+    Console.Write("]");
+}
+int CountOfZero(int[] arrayCount)
+{
+    int countOfZero = 0;
+    for (int i = 0; i < arrayCount.Length; i++)
+    {
+        if (arrayCount[i] > 0) countOfZero++;
+    }
+    return countOfZero;
+}
+int[] userArray = Array(arrayLength);
+PrintArray(userArray);
+Console.ForegroundColor = ConsoleColor.Green;
+int countOfZero = CountOfZero(userArray);
+Console.WriteLine();
+Console.WriteLine($"Количество чисел больше нуля: {countOfZero}.");
+Console.ForegroundColor = ConsoleColor.White;
