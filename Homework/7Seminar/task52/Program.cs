@@ -74,11 +74,12 @@ void PrintColumnAverages(double[] columnAverages)
 {
 
     //Console.WriteLine("Среднее арифметическое каждого столбца:");
-    Console.Write($"[{columnAverages.GetLength(0)}]");
+    Console.Write($"[{columnAverages.GetLength(0)}]\t");
     for (int j = 0; j < columnAverages.GetLength(0); j++)
     {
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.Write($"    {columnAverages[j]}");
+        //Console.Write($"    {columnAverages[j]}");
+     Console.Write($"{columnAverages[j]}\t");
 
     }
 
