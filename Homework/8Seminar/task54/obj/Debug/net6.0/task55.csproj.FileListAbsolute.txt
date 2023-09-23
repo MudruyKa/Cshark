@@ -1,0 +1,15 @@
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.csproj.AssemblyReference.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.AssemblyInfoInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.AssemblyInfo.cs
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.csproj.CoreCompileInputs.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/bin/Debug/net6.0/task55
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/bin/Debug/net6.0/task55.deps.json
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/bin/Debug/net6.0/task55.runtimeconfig.json
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/bin/Debug/net6.0/task55.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/bin/Debug/net6.0/task55.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/refint/task55.dll
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.pdb
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/task55.genruntimeconfig.cache
+/Users/kirill.andrianov/Desktop/C#/Homework/8Seminar/task54/obj/Debug/net6.0/ref/task55.dll
